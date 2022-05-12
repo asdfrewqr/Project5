@@ -5,4 +5,4 @@ int main()
 	char a = 'z';
 	getchar();
 	return 0;
-}=
+}
